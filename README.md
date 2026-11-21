@@ -18,11 +18,28 @@
 
 ## Проекты
 
-- [toros](https://github.com/Denis824-lab/toros) — сайт ХК «Торос» на React 19, TypeScript strict, Tailwind 4 и WebGL-анимации. [Демо](https://denis824-lab.github.io/toros/).
-- [Linmo-Website](https://github.com/Denis824-lab/Linmo-Website) — статический сайт приложения Linmo: лендинг, скачивание, обновления, Firebase-авторизация. [linmoapp.ru](https://linmoapp.ru).
+### Сайт хоккейного клуба «Торос»
+
+[![Главная страница сайта ХК «Торос»](assets/toros.png)](https://denis824-lab.github.io/toros/)
+
+[toros](https://github.com/Denis824-lab/toros) — React 19, TypeScript strict, Tailwind 4, React Router 7, WebGL-анимации. [Демо](https://denis824-lab.github.io/toros/).
+
+### Сайт приложения Linmo
+
+[![Главная страница linmoapp.ru](assets/linmo.png)](https://linmoapp.ru)
+
+[Linmo-Website](https://github.com/Denis824-lab/Linmo-Website) — статический сайт приложения: лендинг, скачивание, обновления, Firebase-авторизация, Three.js-сцена. [linmoapp.ru](https://linmoapp.ru).
+
+### Демо-макеты сайтов
+
+[![Демо-макет сайта «Фикс Авто»](assets/demo-fix-avto.png)](https://denis824-lab.github.io/demo-fix-avto/)
+
+[demo-13detailing](https://github.com/Denis824-lab/demo-13detailing), [demo-fix-avto](https://github.com/Denis824-lab/demo-fix-avto), [demo-vicon](https://github.com/Denis824-lab/demo-vicon) — статика на AstroWind, контент и структура адаптированы вручную. Это макеты, а не коммерческие проекты.
+
+### Остальное
+
 - [Linmo-Releases](https://github.com/Denis824-lab/Linmo-Releases) — публичные бета-сборки Linmo для Windows.
 - [JARVIS](https://github.com/Denis824-lab/JARVIS) — документация голосового помощника: требования, архитектура, безопасность, план. Кода приложения пока нет.
-- [demo-13detailing](https://github.com/Denis824-lab/demo-13detailing), [demo-fix-avto](https://github.com/Denis824-lab/demo-fix-avto), [demo-vicon](https://github.com/Denis824-lab/demo-vicon) — демо-макеты сайтов детейлинга и автосервисов: статика на AstroWind, контент и структура адаптированы вручную.
 
 ## Стек
 
